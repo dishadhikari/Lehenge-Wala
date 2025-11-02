@@ -1,4 +1,4 @@
-# WearShare 
+# Lehenge Wala
 
 ### Sustainable Fashion Rental Platform
 
