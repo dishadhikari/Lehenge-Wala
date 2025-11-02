@@ -40,7 +40,6 @@ WearShare is a peer-to-peer clothing rental platform where users can list their 
 
 ### Setup
 
-``` bash
 # Clone repo
 git clone <your-repo-link>
 cd WearShare
@@ -67,12 +66,7 @@ Open browser → [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 ## Project Structure
 
 ```
-.
-├── app.py                # Flask backend
-├── static/               # CSS, images, JS
-├── templates/            # HTML screens
-├── data/                 # JSON storage files
-└── README.md             # This file
+
 ```
 
 ---
