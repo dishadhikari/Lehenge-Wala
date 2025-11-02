@@ -28,7 +28,7 @@ WearShare is a peer-to-peer clothing rental platform where users can list their 
 
 ## Demo Video
 
-
+https://youtu.be/5ev1xyB4b58
 
 ---
 
@@ -65,12 +65,18 @@ Open browser → [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
 ## Project Structure
 
-```
+
+| Step | File Name                         |
+| ---- | ------------------------------    |
+| 1    | index.html                        |
+| 2    | index.html                        |
+| 3    | style.css                         |
+| 4    | style2.css                        |
+| 5    | script.js                         |
+| 6    | script2.js                        |
 
 ```
-
----
-
+```
 ## Design
 
 * Circular sustainable economy concept
